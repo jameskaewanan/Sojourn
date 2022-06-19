@@ -49,7 +49,7 @@ class _HomeState extends State<HomePage> {
             children: [
               TotalNumbers(),
               SizedBox(height: 12),
-              //CoinShop(),
+              CoinShop(),
               SizedBox(height: 12),
               LineGraph(),
               //SizedBox(height: 12),
